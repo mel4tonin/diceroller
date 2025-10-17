@@ -1,0 +1,26 @@
+4 atk bonus 
+4 initiative 
+1 strength 
+6 dexterity 
+1 constitution 
+4 intelligence  
+1 wisdom  
+2 charisma 
+4 Acrobatics (Dex) 
+1 Animal Handling (Wis) 
+2 Arcana (Int) 
+1 Athletics (Str) 
+2 Deception (Cha) 
+2 History (Int)
+1 Insight (Wis) 
+2 Intimidation (Cha) 
+4 Investigation (Int) 
+1 Medicine (Wis) 
+2 Nature (Int) 
+3 Perception (Wis) 
+2 Performance (Cha) 
+2 Persuasion (Cha) 
+2 Religion (Int) 
+8 Sleight of Hand (Dex) 
+6 Stealth (Dex) 
+1 Survival (Wis) 
